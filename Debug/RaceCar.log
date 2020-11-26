@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\C++\code\RaceCar\main.cpp(95,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++\code\RaceCar\main.cpp(96,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++\code\RaceCar\main.cpp(100,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++\code\RaceCar\main.cpp(101,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++\code\RaceCar\main.cpp(103,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++\code\RaceCar\main.cpp(104,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++\code\RaceCar\main.cpp(113,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  RaceCar.vcxproj -> D:\C++\code\RaceCar\Debug\RaceCar.exe

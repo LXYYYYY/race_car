@@ -1,0 +1,2 @@
+D:\C++\code\RaceCar\Debug\RaceCar.exe
+D:\C++\code\RaceCar\Debug\RaceCar.pdb
